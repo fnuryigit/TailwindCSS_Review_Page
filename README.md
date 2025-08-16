@@ -16,3 +16,6 @@ Bu proje, Tailwind CSS kullanarak oluşturduğum bir **review/inceleme sayfasıd
 - Modern tarayıcı uyumluluğu
 
 Siteye Buradan Ulaşabilirsiniz 
+
+https://fnuryigit.github.io/TailwindCSS_Review_Page/
+
